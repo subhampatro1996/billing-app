@@ -1,0 +1,10 @@
+.nav-item {
+    color : black !important;
+    list-style: none !important;
+    text-decoration: none !important;
+}
+.navbar{
+    background: linear-gradient(to right, #626363, #c7c45e);
+    border-radius: 10px;
+
+}
